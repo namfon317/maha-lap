@@ -1,0 +1,25 @@
+{
+  "name": "maha-lap",
+  "version": "1.0.0",
+  "description": "ทำนายตัวเลขจากความฝัน",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namfon317/maha-lap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namfon317/maha-lap/issues"
+  },
+  "homepage": "https://github.com/namfon317/maha-lap#readme",
+  "dependencies": {
+    "save-dev": "^2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
